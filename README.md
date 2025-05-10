@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Node.js**, **Nest.js**, and **React Native**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **[bnslgvansh67@gmail.com]**
-- 📄 Know more about my experience: [📄 Resume]([https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ])
+- 📄 Know more about my experience: [📄 Resume](https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ)
 
 ---
 
