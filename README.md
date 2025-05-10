@@ -22,10 +22,10 @@
         Frameworks:React<br>
         UI/UX: Bootstrap
       </p>
-      <p>📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing">Click to view</a></p>
+      <p>📄 <strong>Resume:</strong> <a href="https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ">Click to view</a></p>
     </td>
     <td>
-      <img src="https://medium.com/linkapi-solutions/how-to-reach-developer-experience-supreme-level-part-one-ed87015af29f" alt="coding" width="300"/>
+      <img src="./git image.gif" alt="coding" width="500"/>
     </td>
   </tr>
 </table>
