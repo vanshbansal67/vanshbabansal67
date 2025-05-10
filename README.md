@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanshaj Bansal</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="center">
@@ -15,7 +17,6 @@
 - 📫 How to reach me: **[bnslgvansh67@gmail.com]**
 - 📄 Know more about my experience: [📄 Resume](https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ)
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🚀 Languages and Tools:
@@ -24,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 📈 GitHub Stats
 
@@ -34,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbansal67&layout=compact&theme=tokyonight" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🏆 GitHub Trophies
 
@@ -42,7 +43,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vanshbansal67&theme=tokyonight&row=1&column=7" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 📫 Connect with me:
 
