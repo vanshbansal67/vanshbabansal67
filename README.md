@@ -25,7 +25,7 @@
       <p>📄 <strong>Resume:</strong> <a href="[https://drive.google.com/file/d/your-resume-id/view?usp=sharing]">Click to view</a></p>
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="coding" width="300"/>
+      <img src="https://images.app.goo.gl/qoB48BuXFur1Pk3G8" alt="coding" width="300"/>
     </td>
   </tr>
 </table>
