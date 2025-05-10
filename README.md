@@ -2,7 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h3 align="center">A passionate full stack web developer from India</h3>
-
+<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
+<a href="https://github.com/AayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshbansal67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbansal67" />
 </p>
@@ -17,6 +19,9 @@
 - 📫 How to reach me: **[bnslgvansh67@gmail.com]**
 - 📄 Know more about my experience: [📄 Resume](https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ)
 
+- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🚀 Languages and Tools:
