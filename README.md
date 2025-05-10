@@ -1,38 +1,50 @@
-# Hi 👋, I'm Vanshaj Bansal
+<h1 align="center">Hi 👋, I'm Vanshaj Bansal</h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
-Hi there! I'm Vanshaj Bansal, a second-year student at Dr.A.P.J. Abdul Kalam Technical University.  
-My Passion: Technology and innovation fuel my drive!
-
----
-
-### 💡 Skills I Bring:
-
-**Programming Languages:**  
-C, C++, Python  
-
-**Web Development:**  
-HTML, CSS, JavaScript  
-
-**Frameworks & Libraries:**  
-React.js, Bootstrap, GSAP, Locomotive.js
-
-**UI/UX Design:**  
-Bootstrap, Flexbox, Grid
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshbansal67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbansal67" />
+</p>
 
 ---
 
-### 🔧 Currently working on:
-- 🛠️ A **Deploying a Website**
-
-### 📘 Learning Goals:
-- 🌱 Exploring **Node.js** and **React Native**
-
----
-
-### 🔗 Connect with Me:
-![Linkedin](https://www.linkedin.com/in/vanshaj-bansal-6a7b72332/)
-
-
+### 💻 About Me
+- 🎓 I'm pursuing B.Tech in CSE from Dr. A.P.J. Abdul Kalam Technical University  
+- 🌱 I’m currently learning **Next.js**, **Nest.js**, and **React Native**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, React, Express**
+- 📫 How to reach me: **[your-email@gmail.com]**
+- 📄 Know more about my experience: [📄 Resume](your-resume-link)
 
 ---
 
+### 🚀 Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbansal67&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbansal67&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbansal67&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbansal67&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vanshaj-bansal-6a7b72332/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="bnslgvansh67@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+</p>
