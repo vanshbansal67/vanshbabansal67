@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=vanshbansal67&label=Profile%20views&color=0e75b6&style=flat" alt="vanshbansal67" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 
 ### 💻 About Me
 - 🎓 I'm pursuing B.Tech in CSE from Dr. A.P.J. Abdul Kalam Technical University  
@@ -15,6 +16,7 @@
 - 📄 Know more about my experience: [📄 Resume](https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ)
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🚀 Languages and Tools:
 
