@@ -9,14 +9,26 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ### 💻 About Me
-- 🎓 I'm pursuing B.Tech in CSE from Dr. A.P.J. Abdul Kalam Technical University  
-- 🌱 I’m currently learning **Node.js**, **Nest.js**, and **React Native**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 How to reach me: **[bnslgvansh67@gmail.com]**
-- 📄 Know more about my experience: [📄 Resume](https://1drv.ms/b/c/28ae4eca6b23df40/EY54Lzxa0WpGjX0DuPQrZ_ABSgicxiNx8tYpsxv44HRqcA?e=hPYCzZ)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<table>
+  <tr>
+    <td>
+      <h3>Hi 👋, I'm Vanshaj Bansal</h3>
+      <p>
+       🎓 I'm pursuing B.Tech in CSE from Dr. A.P.J. Abdul Kalam Technical University  <br>
+        <strong>My Passion:</strong> Technology and innovation fuel my drive!<br><br>
+        <strong>Skills I Bring:</strong><br>
+        Programming Languages: C, C++, Python<br>
+        Web Dev: HTML, CSS, JavaScript<br>
+        Frameworks:React<br>
+        UI/UX: Bootstrap
+      </p>
+      <p>📄 <strong>Resume:</strong> <a href="[https://drive.google.com/file/d/your-resume-id/view?usp=sharing]">Click to view</a></p>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="coding" width="300"/>
+    </td>
+  </tr>
+</table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ### 🚀 Languages and Tools:
 <p align="left">
