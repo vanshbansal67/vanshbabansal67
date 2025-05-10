@@ -9,9 +9,9 @@
 
 ### 💻 About Me
 - 🎓 I'm pursuing B.Tech in CSE from Dr. A.P.J. Abdul Kalam Technical University  
-- 🌱 I’m currently learning **Next.js**, **Nest.js**, and **React Native**
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, React, Express**
-- 📫 How to reach me: **[your-email@gmail.com]**
+- 🌱 I’m currently learning **Node.js**, **Nest.js**, and **React Native**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 How to reach me: **[bnslgvansh67@gmail.com]**
 - 📄 Know more about my experience: [📄 Resume](your-resume-link)
 
 ---
@@ -19,7 +19,7 @@
 ### 🚀 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
 </p>
 
 ---
